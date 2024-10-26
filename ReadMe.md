@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 Passionate Frontend Development Student<br>Welcome to my GitHub! I’m on an exciting journey learning the ins and outs of frontend development, diving deep into creating beautiful, responsive, and user-friendly web experiences.<br>
+🌱 Passionate Frontend Development Student<br>
+## Welcome to my GitHub!
+I’m on an exciting journey learning the ins and outs of frontend development, diving deep into creating beautiful, responsive, and user-friendly web experiences.<br>
 ### 🌐 Frontend Enthusiast - Love turning ideas into engaging interfaces.<br>
 ### 💻 Constant Learner – Always exploring the latest in web development and design.<br>
 ### 🎯 Goal-Oriented – Striving to build my skill set and grow every day.<br><br>
